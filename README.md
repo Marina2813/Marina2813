@@ -11,17 +11,14 @@
 -->
 <br>
 
-  <a href="https://in.linkedin.com/in/rohit-babu-george">
-    <img align="left" alt="Rohit George | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  <a href="https://in.linkedin.com/in/marina-rose-shaju">
+    <img align="left" alt="Marina Rose Shaju | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/">
-    <img align="left" alt="Rohit George | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+    <img align="left" alt="Marina Rose Shaju | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
-  <a href="https://www.instagram.com/rohit_george._/">
-    <img align="left" alt="Rohit Babu George | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
-  <a href="mailto:code.mastermind.07@gmail.com">
-    <img align="left" alt="Rohit George | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  <a href="mailto:marina@sample.com">
+    <img align="left" alt="Marina Rose Shaju | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
   
  <br>
